@@ -1,1 +1,2 @@
-je vais au cours
+git commit -m "Ajout de la fonction de login"
+git commit                        # Ouvre l’éditeur pour écrire un message
