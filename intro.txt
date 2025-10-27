@@ -1,1 +1,3 @@
-Je suis renaud 
+git add fichier.txt           # Ajoute un fichier spécifique
+git add .                     # Ajoute tous les fichiers modifiés dans le dossier courant
+git add dossier/              # Ajoute tous les fichiers d’un dossier
