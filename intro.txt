@@ -1,3 +1,11 @@
-git add fichier.txt           # Ajoute un fichier spécifique
-git add .                     # Ajoute tous les fichiers modifiés dans le dossier courant
-git add dossier/              # Ajoute tous les fichiers d’un dossier
+🌿 2. git branch – Gérer les branches
+La commande git branch permet de créer, lister ou supprimer des branches dans un dépôt Git. Les branches sont utiles pour travailler sur des fonctionnalités ou des corrections sans affecter la branche principale.
+Exemples d’utilisation :
+- git branch → affiche toutes les branches locales
+- git branch nouvelle-branche → crée une nouvelle branche
+- git branch -d ancienne-branche → supprime une branche locale
+À retenir :
+- Pour changer de branche, on utilise git checkout nom-de-branche ou git switch nom-de-branche.
+- Les branches permettent de travailler en parallèle et de fusionner les changements plus tard avec git merge.
+
+Tu veux que je t’aide à créer une fiche mémo Git complète ou un guide pour débutants ?
