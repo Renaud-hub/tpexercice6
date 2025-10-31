@@ -1,2 +1,9 @@
-git commit -m "Ajout de la fonction de login"
-git commit                        # Ouvre l’éditeur pour écrire un message
+La commande git add sert à préparer les fichiers pour le prochain commit. Elle ajoute les modifications (nouvelles, modifiées ou supprimées) à l’index (ou "staging area").
+Exemples d’utilisation :
+- git add fichier.txt → ajoute un fichier spécifique
+- git add . → ajoute tous les fichiers modifiés du répertoire courant
+- git add -A → ajoute toutes les modifications, y compris les suppressions
+À retenir :
+- git add ne sauvegarde pas encore les changements dans l’historique Git. Il faut ensuite faire un git commit.
+- C’est une étape intermédiaire pour sélectionner précisément ce qu’on veut inclure dans le commit.
+
