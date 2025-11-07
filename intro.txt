@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 🌿 2. git branch – Gérer les branches
 La commande git branch permet de créer, lister ou supprimer des branches dans un dépôt Git. Les branches sont utiles pour travailler sur des fonctionnalités ou des corrections sans affecter la branche principale.
@@ -9,7 +9,7 @@ Exemples d’utilisation :
 À retenir :
 - Pour changer de branche, on utilise git checkout nom-de-branche ou git switch nom-de-branche.
 - Les branches permettent de travailler en parallèle et de fusionner les changements plus tard avec git merge.
-=======
+
 La commande git add sert à préparer les fichiers pour le prochain commit. Elle ajoute les modifications (nouvelles, modifiées ou supprimées) à l’index (ou "staging area").
 Exemples d’utilisation :
 - git add fichier.txt → ajoute un fichier spécifique
@@ -18,5 +18,5 @@ Exemples d’utilisation :
 À retenir :
 - git add ne sauvegarde pas encore les changements dans l’historique Git. Il faut ensuite faire un git commit.
 - C’est une étape intermédiaire pour sélectionner précisément ce qu’on veut inclure dans le commit.
->>>>>>> test2
+
 
